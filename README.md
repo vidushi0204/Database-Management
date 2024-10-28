@@ -1,5 +1,7 @@
 # DB362 - A Custom Database Management System
 
+Part of Database Management Course at IIT Delhi (2023-24 Semester II)
+
 ## Broad Objective:
 The goal of these assignments is to progressively construct **DB362**, an in-memory database management system designed for efficient query execution and data storage. This system integrates fundamental database concepts such as indexing, query optimization, and pipelined execution. Using **Apache Calcite**, an open-source query optimization and execution framework, we aim to build a system that supports complex queries, storage management, and performance optimization techniques such as B+ Tree indexing and rule-based query optimization.
 
